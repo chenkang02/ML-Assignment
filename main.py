@@ -11,7 +11,7 @@ def print_hi(name):
 
 
 # Press the green button in the gutter to run the script.
-string = "@jimhunt this is great! "
+string = "@Kwesidei not the @whole crew! "
 string = re.sub("^@[a-z0-9A-Z]+", "", string)
 print(string)
 
